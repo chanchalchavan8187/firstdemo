@@ -1,2 +1,5 @@
-# firstdemo
-used to describe the projecj
+#firstdemo
+This is my first project
+author chanchal chavan
+
+
